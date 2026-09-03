@@ -1,10 +1,15 @@
+# Título do Vídeo
+Como a Internet chega na minha casa?
+
 ## Informações
+Módulo 1 // Capítulo 1 // Aula 4
 
 - Link do vídeo: https://www.youtube.com/watch?v=F74GKCLXUWM&t=1336s.
 - Duração do Vídeo: 27 minutos
 - Data de visualização: 02/07/2026 e 07/07/2026
 
 ## Conteúdos aprendidos 
+
 A internet surgiu no período da guerra fria e o pontapé para essa criação foi o satelite sploc, que foi lançado no espaço pelo governo sovietico( a guerra era composta pelos estados unidos e pelo governo sovietico) os EUA acreditavam que ele servia como espião e tinham receio de que eles atacassem uma de suas bases, devido cada uma delas ser na extremidade do pais temiam perder as informações que cada base tinha individualmente.
 Logo tiveram a ideia de criar um meio de compartilhar as informações como uma espécie de backup, logo foi criada a ARPANET em 1969, ela se originou com apenas 4 computadores de diferentes fabricantes, o que ocasionou a necessidade de criar uma linguagem universal para os computadores, a qual foi a NCP, que funcionam no modelo de a rede parar quando fosse acontecer uma comunicação e só sendo possível ter uma comunicação por vez, em 1972 Bob Kahn inventou o TCP, para evitar que toda rede parasse ao acontecer uma comunicação, mas devido já ter muitos pontos de comunicação era muito difícil a identificação dos computadores, foi nesse momento que Vint Cerf teve a ideia de criar o IP (identificador de máquinas) e com a junção da criação dos dois foi chamado de tcp/ip. 
 Em 1977 as máquinas aumentaram drasticamente e já havia a utilização de satélites para possibilitar a comunicação entre continentes, entretanto haviam muitos usuários alem da rede militar, com faculdades e pequenas empresas, logo os militares decidiram não tomar mais conta da ARPANET devido já estar em uma grande escala e envolviam outros usuários externos, logo, a ARPANET foi dividida em 3, a MILNET para os militares, a NSFNET para as universidades, pesquisadores e as redes comerciais.

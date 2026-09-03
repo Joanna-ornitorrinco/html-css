@@ -1,6 +1,8 @@
 # Título do Vídeo
 Como a internet funciona?
+
 ## Informações
+Módulo 1 // Capítulo 2 // Aula 1
 
 - Link do vídeo: https://www.youtube.com/watch?v=nlO5hySqJFA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=7
 - Duração do Vídeo: 22:14 minutos
@@ -8,8 +10,7 @@ Como a internet funciona?
 
 ## Conteúdos aprendidos 
 
-
-  o computador não tem inteligência própria, acrescentamos dados a ele o qual funciona com sinais. Os dados são representados com dados binários que são representados por 1 e 0 e são chamados de bit, e a cada 8 bits se torna um byte.
+o computador não tem inteligência própria, acrescentamos dados a ele o qual funciona com sinais. Os dados são representados com dados binários que são representados por 1 e 0 e são chamados de bit, e a cada 8 bits se torna um byte.
 Os sinais são representados com o 0 e com o 1, o qual o 0 funcionaria como estando sem sinal e o 1 com sinal, o qual são chamados de binário ou bit, eles servem para qualquer aparelho eletrônico. Para representação de dados se utiliza 8 bits o equivalente a um octeto, e a cada um octeto se tem um byte// ondas binarias ou ondas quadradas.
 A cada 8 bits se tem 1 byte // a cada 1024 bytes se tem 1 KB; a cada 1024 KB se tem 1 MB; a cada 1024 MB se tem 1 Gb; a cada 1024 gb se tem 1 TB; a cada 1024 tb se tem 1 pb; a cada 1024 PB se tem 1 EB; a cada 1024 EB se tem 1 Zb; e a cada 1024 zb se tem 1 yb
 A primeira e a segunda letra maiúscula representa que é um conjunto de bytes , exemplo: MB mega bytes
