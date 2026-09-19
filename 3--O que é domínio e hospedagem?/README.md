@@ -10,11 +10,11 @@ Módulo 1 // Capítulo 2 // Aula 2
 
 ## Conteúdos aprendidos 
 
-O site vai ser encontrado devido estar na rede de internet e armazenados no servidor como html e css.
+    O site vai ser encontrado devido estar na rede de internet e armazenados no servidor como html e css.
 Situações mistas de como seu site pode ser encontrado ou não:
-situação 1 - seu site está localizado no servidor
+    situação 1 - seu site está localizado no servidor
 O meio para encontrar o site que procura é colocando o endereço, que em seguida passa para o DNS onde busca o endereço que você colocou para devolver o número do serviço para assim ter acesso ao servidor e ao site desejado. 
-situação 2 - seu site está localizado no seu computador
+    situação 2 - seu site está localizado no seu computador
 Nessa situação o site está sendo armazenado no seu próprio computador impossibilitando o compartilhamento de ip para encontrar o site devido não ser um servidor e posteriormente impossibilitando a utilização do DNS, por não ter um endereço físico, sendo possível apenas o criador ver o site mesmo que seja desejado compartilhar o
 compartilhamento funciona apenas o site esteja no servidor e tenha o endereço URL e possa compartilhar o endereço parar o DNS.(Domain Name System, ou Sistema de Nomes de Domínio) 
 Para ter acesso ao servidor é necessário ter um domínio
